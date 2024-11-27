@@ -1,4 +1,1 @@
-In this file, i have added the model training file, i have also added the flask code in the app1.py file. 
-You have to make sure that u have added the css and js file in static folder and in that seperate css and js folders
-also the html code should be in templates folder
-run the .py file in cmd of that directory
+In this file, I have included the model training script. Additionally, I have added the Flask application code in the app1.py file. Ensure that the CSS and JavaScript files are placed in the static folder, with separate subfolders for css and js. The HTML files should be located in the templates folder. To run the application, navigate to the directory in your terminal and execute the .py file.
